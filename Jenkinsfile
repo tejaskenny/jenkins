@@ -19,4 +19,3 @@ pipeline{
                 echo "This is stage 3"
             }
         }
-
